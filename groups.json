@@ -1,0 +1,44 @@
+[
+    {
+        "Name": "food",
+        "DisplayName": "Jídlo",
+        "Description": "Jídlo, studené i teplé",
+        "PrimaryColor": "#fbb32b",
+        "SecondaryColor": "#4b3710"
+    },
+    {
+        "Name": "drinks",
+        "DisplayName": "Pití",
+        "Description": "Pití, studené i teplé",
+        "PrimaryColor": "#2d69da",
+        "SecondaryColor": "#10254b"
+    },
+    {
+        "Name": "pyro",
+        "DisplayName": "Pyrotechnika",
+        "Description": "Petardy, dýmovnice, granáty",
+        "PrimaryColor": "#da2d2d",
+        "SecondaryColor": "#4d1212"
+    },
+    {
+        "Name": "airsoft",
+        "DisplayName": "Airsoft",
+        "Description": "Plyn, kule, baterky",
+        "PrimaryColor": "#2bd83a",
+        "SecondaryColor": "#124d17"
+    },
+    {
+        "Name": "borrows",
+        "DisplayName": "Půjčovna",
+        "Description": "Vesty, brýle, zbraně",
+        "PrimaryColor": "#9e2bd8",
+        "SecondaryColor": "#340f47"
+    },
+    {
+        "Name": "tickets",
+        "DisplayName": "Lístky",
+        "Description": "Prostě lístky",
+        "PrimaryColor": "#d87b2c",
+        "SecondaryColor": "#47290f"
+    }
+]
