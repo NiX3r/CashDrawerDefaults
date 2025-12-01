@@ -1,0 +1,326 @@
+[
+    {
+        "Name": "Voda",
+        "Index": 0,
+        "Description": "Balená voda neperlivá",
+        "Price": 10,
+        "CurrentStock": 0,
+        "GroupName": "drinks",
+        "IsActive": true
+    },
+    {
+        "Name": "Voda perl",
+        "Index": 1,
+        "Description": "Balená voda perlivá",
+        "Price": 10,
+        "CurrentStock": 0,
+        "GroupName": "drinks",
+        "IsActive": true
+    },
+    {
+        "Name": "Ice tea",
+        "Index": 2,
+        "Description": "Balený ledový čaj",
+        "Price": 15,
+        "CurrentStock": 0,
+        "GroupName": "drinks",
+        "IsActive": true
+    },
+    {
+        "Name": "Plech",
+        "Index": 3,
+        "Description": "Plechovky - Fanta, Cola, ..",
+        "Price": 20,
+        "CurrentStock": 0,
+        "GroupName": "drinks",
+        "IsActive": true
+    },
+    {
+        "Name": "Bráník",
+        "Index": 4,
+        "Description": "Pivo",
+        "Price": 25,
+        "CurrentStock": 0,
+        "GroupName": "drinks",
+        "IsActive": true
+    },
+    {
+        "Name": "Kozel",
+        "Index": 5,
+        "Description": "Pivo",
+        "Price": 25,
+        "CurrentStock": 0,
+        "GroupName": "drinks",
+        "IsActive": true
+    },
+    {
+        "Name": "Plzeň",
+        "Index": 6,
+        "Description": "Pivo lepší",
+        "Price": 40,
+        "CurrentStock": 0,
+        "GroupName": "drinks",
+        "IsActive": true
+    },
+    {
+        "Name": "Čaj",
+        "Index": 7,
+        "Description": "Horký čaj",
+        "Price": 15,
+        "CurrentStock": 0,
+        "GroupName": "drinks",
+        "IsActive": true
+    },
+    {
+        "Name": "Káva",
+        "Index": 8,
+        "Description": "Horká káva",
+        "Price": 20,
+        "CurrentStock": 0,
+        "GroupName": "drinks",
+        "IsActive": true
+    },
+    {
+        "Name": "Birell",
+        "Index": 9,
+        "Description": "Birell ochucený/neochucený",
+        "Price": 25,
+        "CurrentStock": 0,
+        "GroupName": "drinks",
+        "IsActive": true
+    },
+    {
+        "Name": "Kafe plech",
+        "Index": 10,
+        "Description": "Káva studená v plechu",
+        "Price": 35,
+        "CurrentStock": 0,
+        "GroupName": "drinks",
+        "IsActive": true
+    },
+    {
+        "Name": "Petarda",
+        "Index": 0,
+        "Description": "Slabší petarda s knotem",
+        "Price": 20,
+        "CurrentStock": 0,
+        "GroupName": "pyro",
+        "IsActive": true
+    },
+    {
+        "Name": "Tagin",
+        "Index": 1,
+        "Description": "Silná petarda s zápalníkem",
+        "Price": 220,
+        "CurrentStock": 0,
+        "GroupName": "pyro",
+        "IsActive": true
+    },
+    {
+        "Name": "Pyrosoft",
+        "Index": 2,
+        "Description": "Asi granát?",
+        "Price": 250,
+        "CurrentStock": 0,
+        "GroupName": "pyro",
+        "IsActive": true
+    },
+    {
+        "Name": "Flashstrike",
+        "Index": 3,
+        "Description": "Akustický granát na principu kapslíkové náplně",
+        "Price": 500,
+        "CurrentStock": 0,
+        "GroupName": "pyro",
+        "IsActive": true
+    },
+    {
+        "Name": "Dýmáček",
+        "Index": 4,
+        "Description": "Velmi slabá dýmovnice s knotem",
+        "Price": 55,
+        "CurrentStock": 0,
+        "GroupName": "pyro",
+        "IsActive": true
+    },
+    {
+        "Name": "Klobása",
+        "Index": 0,
+        "Description": "Teplá klobása, chleba a omáčka",
+        "Price": 60,
+        "CurrentStock": -1,
+        "GroupName": "food",
+        "IsActive": true
+    },
+    {
+        "Name": "Buřt",
+        "Index": 1,
+        "Description": "Teplý buřt, chleba a omáčka",
+        "Price": 55,
+        "CurrentStock": -1,
+        "GroupName": "food",
+        "IsActive": true
+    },
+    {
+        "Name": "Delissa",
+        "Index": 2,
+        "Description": "Tyčinka",
+        "Price": 15,
+        "CurrentStock": 0,
+        "GroupName": "food",
+        "IsActive": true
+    },
+    {
+        "Name": "Snickers",
+        "Index": 3,
+        "Description": "Tyčinka",
+        "Price": 20,
+        "CurrentStock": 0,
+        "GroupName": "food",
+        "IsActive": true
+    },
+    {
+        "Name": "Green gas",
+        "Index": 0,
+        "Description": "Flaška plyn green gas",
+        "Price": 200,
+        "CurrentStock": 0,
+        "GroupName": "airsoft",
+        "IsActive": true
+    },
+    {
+        "Name": "Kule",
+        "Index": 1,
+        "Description": "BB kuličky od 0.25g do 0.30g",
+        "Price": 230,
+        "CurrentStock": 0,
+        "GroupName": "airsoft",
+        "IsActive": true
+    },
+    {
+        "Name": "CO2",
+        "Index": 2,
+        "Description": "Bombička s CO2",
+        "Price": 15,
+        "CurrentStock": 0,
+        "GroupName": "airsoft",
+        "IsActive": true
+    },
+    {
+        "Name": "Baterka",
+        "Index": 3,
+        "Description": "AA nebo AAA baterka",
+        "Price": 10,
+        "CurrentStock": 0,
+        "GroupName": "airsoft",
+        "IsActive": true
+    },
+    {
+        "Name": "Vesta",
+        "Index": 4,
+        "Description": "Nákup vesty",
+        "Price": 50,
+        "CurrentStock": 0,
+        "GroupName": "airsoft",
+        "IsActive": true
+    },
+    {
+        "Name": "Komplet set",
+        "Index": 0,
+        "Description": "Zápujčka setu zbraňe, brýlí, masky a pár kuliček",
+        "Price": 250,
+        "CurrentStock": -1,
+        "GroupName": "borrows",
+        "IsActive": true
+    },
+    {
+        "Name": "Vesta",
+        "Index": 1,
+        "Description": "Zápujčka vesty",
+        "Price": 50,
+        "CurrentStock": -1,
+        "GroupName": "borrows",
+        "IsActive": true
+    },
+    {
+        "Name": "Vesta Vr",
+        "Index": 2,
+        "Description": "Vratka vesty",
+        "Price": -50,
+        "CurrentStock": -1,
+        "GroupName": "borrows",
+        "IsActive": true
+    },
+    {
+        "Name": "Brýle",
+        "Index": 3,
+        "Description": "Zápujčka brýlí",
+        "Price": 10,
+        "CurrentStock": -1,
+        "GroupName": "borrows",
+        "IsActive": true
+    },
+    {
+        "Name": "Maska",
+        "Index": 4,
+        "Description": "Zápujčka masky",
+        "Price": 20,
+        "CurrentStock": -1,
+        "GroupName": "borrows",
+        "IsActive": true
+    },
+    {
+        "Name": "Sobota",
+        "Index": 0,
+        "Description": "Sobotní lístek",
+        "Price": 150,
+        "CurrentStock": -1,
+        "GroupName": "tickets",
+        "IsActive": true
+    },
+    {
+        "Name": "Neděle",
+        "Index": 1,
+        "Description": "Nedělní lístek",
+        "Price": 200,
+        "CurrentStock": -1,
+        "GroupName": "tickets",
+        "IsActive": true
+    },
+    {
+        "Name": "Permice So",
+        "Index": 2,
+        "Description": "Permice sobotních her",
+        "Price": 600,
+        "CurrentStock": -1,
+        "GroupName": "tickets",
+        "IsActive": true
+    },
+    {
+        "Name": "Permice Ne",
+        "Index": 3,
+        "Description": "Permice nedělní hry",
+        "Price": 800,
+        "CurrentStock": -1,
+        "GroupName": "tickets",
+        "IsActive": true
+    },
+    {
+        "Name": "Permice So",
+        "Index": 4,
+        "Description": "Využití permice soboty",
+        "Price": 0,
+        "CurrentStock": -1,
+        "GroupName": "tickets",
+        "IsActive": true
+    },
+    {
+        "Name": "Permice Ne",
+        "Index": 5,
+        "Description": "Využití permice neděle",
+        "Price": 0,
+        "CurrentStock": -1,
+        "GroupName": "tickets",
+        "IsActive": true
+    }
+]

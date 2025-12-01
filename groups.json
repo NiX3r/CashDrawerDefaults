@@ -1,5 +1,12 @@
 [
     {
+        "Name": "tickets",
+        "DisplayName": "Lístky",
+        "Description": "Prostě lístky",
+        "PrimaryColor": "#d87b2c",
+        "SecondaryColor": "#47290f"
+    },
+    {
         "Name": "food",
         "DisplayName": "Jídlo",
         "Description": "Jídlo, studené i teplé",
@@ -33,12 +40,5 @@
         "Description": "Vesty, brýle, zbraně",
         "PrimaryColor": "#9e2bd8",
         "SecondaryColor": "#340f47"
-    },
-    {
-        "Name": "tickets",
-        "DisplayName": "Lístky",
-        "Description": "Prostě lístky",
-        "PrimaryColor": "#d87b2c",
-        "SecondaryColor": "#47290f"
     }
 ]
